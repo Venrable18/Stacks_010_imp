@@ -13,7 +13,7 @@ epoch = '3.2'
 [contracts.ft-trait]
 path = 'contracts/ft-trait.clar'
 clarity_version = 3
-epoch = 'latest'
+epoch = '3.2'
 [repl.analysis]
 passes = ['check_checker']
 
